@@ -5,3 +5,22 @@ canvas {
   display: block;
   margin: auto;
 }
+
+h1 {
+  text-align: center;
+  font-size: 400%;
+}
+
+h2 {
+  text-align: center;
+}
+
+.gameTitle {
+  color: hsl(10, 75%, 62%);
+  text-shadow: 4px 4px hsl(359, 61%, 34%);
+}
+
+.gameSubTitle {
+  color: hsl(44, 87%, 62%);
+  text-shadow: 2px 2px hsl(31, 76%, 57%);
+}
