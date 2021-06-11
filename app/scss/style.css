@@ -22,4 +22,23 @@ canvas {
   display: block;
   margin: auto;
 }
+
+h1 {
+  text-align: center;
+  font-size: 400%;
+}
+
+h2 {
+  text-align: center;
+}
+
+.gameTitle {
+  color: #e76e55;
+  text-shadow: 4px 4px #8c2224;
+}
+
+.gameSubTitle {
+  color: #f2c54a;
+  text-shadow: 2px 2px #e5943e;
+}
 /*# sourceMappingURL=style.css.map */
