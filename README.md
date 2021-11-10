@@ -18,3 +18,8 @@ Although Octagram has dozens of features, which you can find on this [page](), t
 - Defense: Negates attack with 50% chance of success or negates 5% of the attack
 - Heal: replenishes a cetain amount of health.
 - Special Attack: a special attack with special abilties applicable once your mana reaches a certain level.
+
+## In Game Companions
+Octogoram stars with 2 basic characters the Octokat and Octopus, while other characters are collectibles you can collect after battles with in game gatcha system.
+
+To learn about more companions viist this [website]().
