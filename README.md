@@ -10,7 +10,7 @@ To play Octogram on your broswer, visit this [website](https://tempest2121.githu
 
 Octogram works best when given a certain resolution. I suggest a resolution excedding 1400x900. If your device does not meets the follwing reqirment you might adjust the zoom of the page according to your liking.
 
-That’s all it takes! Octogram is now set up in your browser and your players can begin battling each other and collecting new characters.
+That’s all it takes! Octogram is now set up in your browser and the players can battle each other and collect new characters.
 
 ## How to play Octagram
 Although Octagram has dozens of features, which you can find on this [page](), the game's 4 core mechanics are: 
